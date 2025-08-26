@@ -37,7 +37,7 @@ Tomato Delivery is a full-stack MERN (MongoDB, Express.js, React, Node.js) proje
 
 ## Acknowledgments
 
-This project draws inspiration from the amazing work on the [Tomato Delivery](https://github.com/fr0st-iwnl/tomato-delivery) repository. Special thanks to [fr0st-iwnl](https://github.com/fr0st-iwnl) for their contributions and original implementation of this idea. 
+This project draws inspiration from the amazing work on the [Tomato Delivery]() repository. Special thanks to [fr0st-iwnl]() for their contributions and original implementation of this idea. 
 
 ---
 
@@ -45,4 +45,4 @@ This project draws inspiration from the amazing work on the [Tomato Delivery](ht
 
 Tomato Delivery marks my first venture into the MERN stack, and while it is still a work in progress, it reflects my enthusiasm and commitment to learning and building impactful projects. 😊 
 
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/zahidrahimoon) and explore more of my work on [GitHub](https://github.com/zahidrahimoon). 🚀
+Feel free to connect with me on [LinkedIn]() and explore more of my work on [GitHub](). 🚀
